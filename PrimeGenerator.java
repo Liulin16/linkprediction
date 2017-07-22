@@ -1,3 +1,7 @@
+/** 
+ * @author Dorukhan Arslan, Didem Demirag
+*/
+
 package dtwlastversion;
 /* Generates primes according to certain constraints
  */
